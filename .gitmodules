@@ -1,0 +1,6 @@
+[submodule "Backend-Samba4Hub"]
+	path = Backend-Samba4Hub
+	url = https://github.com/Gustavo-Rocha/Samba-4-Hub-Backend.git
+[submodule "Frontend-Samba4Hub"]
+	path = Frontend-Samba4Hub
+	url = https://github.com/Gustavo-Rocha/Samba-4-Hub-Frontend.git
